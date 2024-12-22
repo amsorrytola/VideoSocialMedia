@@ -1,0 +1,22 @@
+{
+  "name": "youtubeproject",
+  "version": "1.0.0",
+  "description": "youtubextwitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amsorrytola/VideoSocialMedia.git"
+  },
+  "keywords": [
+    "jsbackeend"
+  ],
+  "author": "Talha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amsorrytola/VideoSocialMedia/issues"
+  },
+  "homepage": "https://github.com/amsorrytola/VideoSocialMedia#readme"
+}
